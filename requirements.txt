@@ -1,16 +1,15 @@
-ucimlrepob
-tensorflow
-pandas as pd
-numpy as np
+ipykernel
+ipywidgets
+joblib
+matplotlib
+numpy
+pandas
+scikit-learn
 scipy
-matplotlib.pyplot as plt
-seaborn as sns
-statsmodels.tsa.seasonal
-scipy.spatial.distance
-tslearn.metrics
-matplotlib.pyplot as plt
-tensorflow.keras.datasets
-zipfile
-os
-urllib.request
-sklearn
+seaborn
+shap
+statsmodels
+tensorflow
+tslearn
+ucimlrepo
+xgboost
